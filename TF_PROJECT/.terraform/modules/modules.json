@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"ingress","Source":"./ingress","Dir":""},{"Key":"kubernetes_cluster","Source":"./kubernetes-cluster","Dir":""},{"Key":"odoo_app","Source":"./modules/odoo-app","Dir":"modules/odoo-app"},{"Key":"odoo_deployment","Source":"./odoo-deployment","Dir":""},{"Key":"postgresql","Source":"./postgresql","Dir":""}]}
